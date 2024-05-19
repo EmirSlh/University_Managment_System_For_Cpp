@@ -1,0 +1,6 @@
+Ad: Emir
+Soyad: Salih
+Okul Numarasý: 2204
+Bölüm: deneme
+Aldýðý Dersler: denemelab denemee 
+--------------------

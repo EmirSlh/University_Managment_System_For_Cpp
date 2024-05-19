@@ -1,0 +1,6 @@
+Ders Adı: elektrik1
+Öğretmen: Öğretmen Adı: Adnan, Girdiği bölümü: Elektrik
+--------------------
+Ders Adı: g”ml
+Öğretmen: Öğretmen Adı: zeynep, Girdiği bölümü: Yazilim
+--------------------

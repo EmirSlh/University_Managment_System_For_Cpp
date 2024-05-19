@@ -1,0 +1,18 @@
+Ad: dada
+Soyad: sa
+Okul Numarasý: 554
+Bölüm: Yazilim
+Aldýðý Dersler: opp 
+--------------------
+Ad: gd
+Soyad: gfd
+Okul Numarasý: 67
+Bölüm: Yazilim
+Aldýðý Dersler: nesne opp 
+--------------------
+Ad: sdfg
+Soyad: sdf
+Okul Numarasý: 576
+Bölüm: Yazilim
+Aldýðý Dersler: opp nesne 
+--------------------

@@ -1,0 +1,10 @@
+Department: Yazilim
+Department: Bilgisayar
+Department:  Yazilim
+Department:  Bilgisayar
+Teacher: fds
+Teacher: fds
+Course: sdfg
+Course: sdfg
+Student: emoo
+Student: emoo

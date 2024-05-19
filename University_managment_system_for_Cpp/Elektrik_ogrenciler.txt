@@ -1,0 +1,6 @@
+Ad: Emir
+Soyad: Salih
+Okul Numarası: 123
+Bölüm: Elektrik
+Aldığı Dersler: elektrik1 g”ml 
+--------------------
